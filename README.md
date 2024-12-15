@@ -16,13 +16,13 @@
 
 ## Screenshots
 
-![Home Screen](/home_screen.png)
-![Add an Employee](/screenshots/add_an_employee.png)
+![Home Screen](/screenshots/home_screeen.png)
+![Add an Employee](/screenshots/add_an_employee.jpg)
 ![Delete an Employee](/screenshots/delete_an_employee.png)
-![Delete an Employee Confirmation](/screenshots/delete_an_employee_2.png)
+![Delete an Employee Confirmation](/screenshots/delete_an_employee.jpg)
 ![Update an Employee](/screenshots/update_an_employee.png)
-![Update an Employee Confirmation](/screenshots/update_an_employee_2.png)
-![View All Employees](/screenshots/view_all_employee.png)
+![Update an Employee Confirmation](/screenshots/update_an_employee_2.jpg)
+![View All Employees](/screenshots/view_all_employee.jpg)
 
 ## Setup
 
