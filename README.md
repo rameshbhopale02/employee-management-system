@@ -15,13 +15,19 @@
 - **View All Employees:** Fetch all employees from the database in a single click.
 
 ## Screenshots
-
+### home Screen
 ![Home Screen](/screenshots/home_screeen.png)
+### Add Employee
 ![Add an Employee](/screenshots/add_an_employee.jpg)
+### Delete Employee
 ![Delete an Employee](/screenshots/delete_an_employee.png)
+### Confirm Deletion
 ![Delete an Employee Confirmation](/screenshots/delete_an_employee.jpg)
+### Update Employee
 ![Update an Employee](/screenshots/update_an_employee.png)
-![Update an Employee Confirmation](/screenshots/update_an_employee_2.jpg)
+### Confirm Updation
+![Update an Employee Confirmation](/screenshots/update_an_employee2.jpg)
+### View Employees
 ![View All Employees](/screenshots/view_all_employee.jpg)
 
 ## Setup
